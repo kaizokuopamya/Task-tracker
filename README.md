@@ -1,27 +1,66 @@
-# TodoApp
+# Task Tracker - Angular Practice Project by Traversy Media
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+![Design preview for the Task Tracker app](//link goes here)
 
-## Development server
+## Welcome! 👋
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This is a Task Tracker app made along following 2 hour tutorial of traversy media on youtube. Thanks to him I was able to complete this small app using Angular Framework
 
-## Code scaffolding
+## Table of contents
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-## Build
+## Overview
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+This is Task Tracker App made with Angular Framework
 
-## Running unit tests
+### The challenge
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Users should be able to:
 
-## Running end-to-end tests
+- Add Task using save task button
+- Delete Task by clicking cross icon
+- Set Reminder by double clicking on the task
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Screenshot
 
-## Further help
+![Task Tracker](./images/download.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Links
+
+- Solution URL: [Github](https://github.com/kaizokuopamya/Task-tracker)
+- Live Site URL: [Task Tracker](https://mylink.netlify.app/)
+
+## My process
+
+### Built with
+
+- Angular Framework
+- RXJS
+- Angular Router
+- JSON Server
+
+### What I learned
+
+Got to know basics of angular, components, type safety with typescript, routes, etc.
+
+### Useful resources
+
+- [Traversy Media](https://youtu.be/3dHNOWTI7H8) - I have followed this video to learn and make this task tracker
+
+## Author
+
+- Github - [@kaizokuopamya](https://github.com/kaizokuopamya)
+
+## Acknowledgments
+
+[Traversy Media](https://www.youtube.com/@TraversyMedia) This guy is hands down the best teacher if you want to learn any technology quickly
